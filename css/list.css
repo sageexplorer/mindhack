@@ -18,3 +18,7 @@ ul {
     background-color: #555;
     color: white;
   }
+ li a:visited, a:active{
+    background-color: #09F;
+}
+  
