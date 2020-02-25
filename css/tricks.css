@@ -1,0 +1,14 @@
+#rotate {
+    width: 15px;
+    padding: 5px;
+    -ms-transform: rotate(20deg); /* IE 9 */
+    transform: rotate(20deg);
+  }
+  
+  #upside{
+      width: 20px;
+      height:15px;
+      margin-left: 10px;
+      -ms-transform: rotate(60deg); /* IE 9 */
+      transform: rotate(180deg);
+  }
